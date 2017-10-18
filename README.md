@@ -1,2 +1,5 @@
-# slim_rest_api
-Slim 3 REST API skeleton structure and primary application to start with quickly
+# How to setup
+
+1. Run `composer install`
+2. Copy .htaccess.example to .htaccess
+3. Copy settings.php.example to settings.php
